@@ -2,10 +2,6 @@
 
 Estudiando para ser pentester 
 
-<!-- Console? -->
-
-
-
 <pre>
 - Studying📚
 - Learning self-taught 💻
