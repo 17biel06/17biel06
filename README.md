@@ -1,16 +1,25 @@
-### Hi there 👋
+# ¡Hola! Soy Biel 💻
 
-<!--
-**17biel06/17biel06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiando para ser pentester 
 
-Here are some ideas to get you started:
+<!-- Console? -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<pre>
+- Studying📚
+- Learning self-taught 💻
+- Dream: become pentester 🛜
+- learning to program python3 💡
+</pre>
+
+# Social
+ <a href="https://instagram.com/tahmid.rayat" target="_blank"><img
+            src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram"
+            alt="Instagram"></a>
+
+## 📊 My Github Stats
+
+  <img src="https://myreadme.vercel.app/api/embed/17biel06?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+
